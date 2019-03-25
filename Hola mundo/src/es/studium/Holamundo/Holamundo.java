@@ -5,5 +5,6 @@ public class Holamundo {
 		//ESCRIBIR
 		System.out.println("Hola mundo!!!!!!!!");
 		System.out.println("Hola mundo 2!!!!!");
+		System.out.println("Te amo");
 	}
 }
